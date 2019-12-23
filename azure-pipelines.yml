@@ -8,5 +8,5 @@ pool:
 
 steps:
 - script: |
-    make
-  displayName: 'make'
+    echo "hello world"
+  displayName: 'print hello world'
